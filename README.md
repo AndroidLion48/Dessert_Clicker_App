@@ -2,7 +2,8 @@ DessertClicker -
 =====================
 
 Project from completing Unit 3: Navigation Between Screens
-
+* Activity Lifecycle Tutorial
+![Logcat_Activity_Logs_Screenshot_](https://user-images.githubusercontent.com/92341925/200765954-a3893bf6-3798-4a3a-b5d1-90d5afd3712a.png)
 
 
 Introduction
